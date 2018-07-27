@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0436EED1210AF08C0096D656 /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0436EED0210AF08C0096D656 /* ResultViewController.swift */; };
 		0440AB6A210A17A1002D73E0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0440AB69210A17A1002D73E0 /* AppDelegate.swift */; };
 		0440AB6C210A17A1002D73E0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0440AB6B210A17A1002D73E0 /* ViewController.swift */; };
 		0440AB6F210A17A1002D73E0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0440AB6D210A17A1002D73E0 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0436EED0210AF08C0096D656 /* ResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 		0440AB66210A17A1002D73E0 /* SecondKadaiApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SecondKadaiApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0440AB69210A17A1002D73E0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0440AB6B210A17A1002D73E0 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 				0440AB69210A17A1002D73E0 /* AppDelegate.swift */,
 				0440AB6B210A17A1002D73E0 /* ViewController.swift */,
 				0440AB6D210A17A1002D73E0 /* Main.storyboard */,
+				0436EED0210AF08C0096D656 /* ResultViewController.swift */,
 				0440AB70210A17A6002D73E0 /* Assets.xcassets */,
 				0440AB72210A17A6002D73E0 /* LaunchScreen.storyboard */,
 				0440AB75210A17A6002D73E0 /* Info.plist */,
@@ -137,6 +140,7 @@
 			files = (
 				0440AB6C210A17A1002D73E0 /* ViewController.swift in Sources */,
 				0440AB6A210A17A1002D73E0 /* AppDelegate.swift in Sources */,
+				0436EED1210AF08C0096D656 /* ResultViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
